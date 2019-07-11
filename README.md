@@ -2,7 +2,7 @@
 Solutions to all exercise problems in the 5 course specialization on coursera <br />
 Description of assignment uploads:<br />
 1. Course 1<br />
-     -Week 2<br />
+Week 2<br />
 Python Basics with Numpy.py: Brief introduction to Python using sigmoid, sigmoid derivative,normalise and softmax. Numpy functions like shape and reshape used in image2vector <br />
 Logistic+Regression+with+a+Neural+Network+mindset+v5.py: Simple logistic regression classifier for cat image recognition (classified as cat (1) or non-cat (y=0)<br />
 Week 3<br />
@@ -10,7 +10,7 @@ Planar data classification with one hidden layer.py: 2-class classification neur
 Week 4<br />
 Building a deep neural network.py: Build a deep neural with n hidden layers <br />
 Deep+Neural+Network+-+Application+v8.py: Utilising the DNN built in previous exercise for image classification and comparison with logistic regression output<br />
-Course 2<br />
+2. Course 2<br />
 Week 1<br />
 Initialization.py: Training neural network by specifying an initial value of the weights for improving DNN<br />
 Regularization+-+v2.py: Implementing regularization in DNN to overcome overfitting<br />
@@ -19,7 +19,7 @@ Week 2<br />
 Optimization methods.py: Use of optimization algorithms for faster learning and better final result of cost function<br />
 Week 3<br />
 Programming in Tensorflow.py: Using Tensorflow Library functions<br />
-Course 4<br />
+3. Course 4<br />
 Week 1<br />
 CNN model.py: Implement convolutional (CONV) and pooling (POOL) layers in numpy, including both forward propagation and (optionally) backward propagation. <br />
 Convolution+model+-+Application+-+v1.py: Build and train a ConvNet in TensorFlow for classifying signs dataset<br />
@@ -31,7 +31,7 @@ Autonomous driving application.py: Object detection using the very powerful YOLO
 Week 4 <br />
 Facial recognition for happy house.py: For Face verification and Face recognition <br />
 Art+Generation+with+Neural+Style+Transfer+-+v2.py: Generate novel artistic images using neural style transfer algorithm <br />
-Course 5<br />
+4. Course 5<br />
 Week 1<br />
 RNN model.py: Implement RNN in numpy<br />
 Dinosaurus+Island+--+Character+level+language+model+final+-+v3.py: Build a character level language model to generate new names<br />
