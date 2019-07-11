@@ -2,7 +2,7 @@
 Solutions to all exercise problems in the 5 course specialization on coursera <br />
 Description of assignment uploads:<br />
 1. Course 1<br />
-   -Week 2<br />
+     -Week 2<br />
 Python Basics with Numpy.py: Brief introduction to Python using sigmoid, sigmoid derivative,normalise and softmax. Numpy functions like shape and reshape used in image2vector <br />
 Logistic+Regression+with+a+Neural+Network+mindset+v5.py: Simple logistic regression classifier for cat image recognition (classified as cat (1) or non-cat (y=0)<br />
 Week 3<br />
