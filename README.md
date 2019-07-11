@@ -28,7 +28,7 @@ Programming in Keras.py: basic programming using Keras
 Residual+Networks+-+v2.py: Build ResNets for image classification
 Week 3
 Autonomous driving application.py: Object detection using the very powerful YOLO model
-Week 4
+Week 4 
 Facial recognition for happy house.py: For Face verification and Face recognition 
 Art+Generation+with+Neural+Style+Transfer+-+v2.py: Generate novel artistic images using neural style transfer algorithm 
 Course 5
