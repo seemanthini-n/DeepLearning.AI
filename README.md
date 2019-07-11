@@ -1,5 +1,5 @@
 # DeepLearning.AI
-Solutions to all exercise problems in the 5 course specialization on coursera
+Solutions to all exercise problems in the 5 course specialization on coursera <br />
 Description of assignment uploads:
 Course 1
 Week 2
